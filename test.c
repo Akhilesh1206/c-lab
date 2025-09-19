@@ -14,7 +14,7 @@ int main() {
     if (r==0){
         b++;
     }}}
-    if(b==1){
+    if(b==0){
         printf("the number is prime\n");
     }
     else {
@@ -24,3 +24,4 @@ int main() {
     return 0;
 
 }
+
